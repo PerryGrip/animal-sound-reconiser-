@@ -1,0 +1,36 @@
+body{
+    font-family: 'roboto slab',serif;
+    background-color: darkred;
+    text-align: center;
+
+}
+.header_div{
+background-color: olivedrab;
+color: white;
+}
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.05cm;
+    font-size: large;
+
+}
+.main_div button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: palevioletred;
+    bottom: 0;
+    width: 100%;
+    font-size: 80px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    
+}
